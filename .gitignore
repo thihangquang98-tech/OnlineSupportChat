@@ -1,0 +1,30 @@
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQLite local database
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
